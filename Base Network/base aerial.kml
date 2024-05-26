@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>Base aerial.jpg</name><color>88ffffff</color><Icon>
+<href>Base aerial.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 53.27256</north>
+<south> 53.0026</south>
+<east>-1.38193</east>
+<west>-1.98221</west>
+</LatLonBox></GroundOverlay></kml>

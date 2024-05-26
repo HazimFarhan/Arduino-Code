@@ -1,0 +1,8 @@
+<kml><GroundOverlay><name>base bw.jpg</name><color>b0ffffff</color><Icon>
+<href>base bw.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 53.27256</north>
+<south> 53.0026</south>
+<east>-1.38193</east>
+<west>-1.98221</west>
+</LatLonBox></GroundOverlay></kml>
